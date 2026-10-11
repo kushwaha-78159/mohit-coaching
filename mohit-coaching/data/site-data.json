@@ -1,0 +1,45 @@
+{
+  "about": "Mohit Coaching Centre, located in Faridabad, Haryana, is dedicated to helping students from Class 6th to 12th achieve academic excellence. We offer Science, Mathematics, Commerce and Accounting coaching with a focus on personal attention and strong fundamentals.",
+  "contact": {
+    "address": "Faridabad, Haryana, India",
+    "phone": "9873566144",
+    "email": ""
+  },
+  "gallery": [
+    "sir1.png",
+    "sir2.jpg",
+    "sir3.jpg",
+    "sir4.jpg",
+    "sir5.jpg",
+    "sir6.jpg",
+    "sir7.jpg",
+    "sir8.jpg"
+  ],
+  "registrations": [
+    {
+      "id": "b18d68f9-4c1b-49f9-961b-a3a176905d43",
+      "kind": "registration",
+      "status": "NEW",
+      "createdAt": "2026-10-11T14:51:05.555Z",
+      "studentName": "rahul",
+      "parentName": "vinod",
+      "phone": "9310182063",
+      "email": "kushwahaabhishek72068@gmail.com",
+      "className": "Class 12th \u2014 Accounting",
+      "message": "please join"
+    }
+  ],
+  "messages": [
+    {
+      "id": "aff2654a-50c8-4a67-ad3f-4d0dc352b06d",
+      "kind": "contact",
+      "status": "NEW",
+      "createdAt": "2026-10-11T14:50:37.236Z",
+      "name": "Abhishek Kushwaha",
+      "phone": "9310182063",
+      "email": "kushwahaabhishek72068@gmail.com",
+      "subject": "com with match",
+      "message": "hlooo"
+    }
+  ]
+}
