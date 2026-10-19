@@ -4,10 +4,10 @@ import crypto from "node:crypto";
 
 const file = path.join(process.cwd(),"data","site-data.json");
 export type RecordItem = {id:string;kind:string;status:string;createdAt:string;[key:string]:unknown};
-export type Store = {about:string;contact:{address:string;phone:string;email:string};gallery:string[];registrations:RecordItem[];messages:RecordItem[]};
+export type Store = {about:string;contact:{address:string;phone:string;phone2:string;email:string};gallery:string[];registrations:RecordItem[];messages:RecordItem[]};
 const initial:Store = {
  about:"Mohit Coaching Centre, located in Faridabad, Haryana, is dedicated to helping students from Class 6th to 12th achieve academic excellence. We offer Science, Mathematics, Commerce and Accounting coaching with a focus on personal attention and strong fundamentals.",
- contact:{address:"Faridabad, Haryana, India",phone:"9873566144",email:""},
+ contact:{address:"Faridabad, Haryana, India",phone:"9873566144",phone2:"9319422132",email:"mohitcoachingcentre126@gmail.com"},
  gallery:["sir1.png","sir2.jpg","sir3.jpg","sir4.jpg","sir5.jpg","sir6.jpg","sir7.jpg","sir8.jpg"],
  registrations:[],messages:[]
 };
